@@ -1,0 +1,4 @@
+1 deceptive positive
+2 truthful positive
+3 truthful positive
+4 truthful negative
